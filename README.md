@@ -24,3 +24,6 @@ El Marco de evaluación de modelos QSAR QAF ((Q)SAR Assessment Framework) es un 
 - La predicción debe cumplir con requisitos adicionales definidos por el marco regulatorio.
 - La propiedad predicha por el modelo debe corresponder con la propiedad requerida por la regulación.
 - La predicción debe ser adecuada para tomar una decisión regulatoria dentro del marco específico.
+
+## Descargar QAF en español
+Para obtener más detalles sobre el Marco de Evaluación de Modelos QSAR (QAF) en español, puedes descargar el documento completo haciendo clic en el siguiente enlace: [Descargar QAF en español](https://github.com/josueacuna/qaf_qsar/blob/main/OCDE-QSAR.pdf)
