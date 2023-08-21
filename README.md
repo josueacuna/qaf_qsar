@@ -1,3 +1,5 @@
+![QAF Banner](https://www.quantenqsar.com.mx/uploads/1/4/3/6/143692235/published/untitled-design-2-1.png?1667250801)
+
 # Marco de Evaluación de Modelos QSAR (QAF)
 
 El Marco de evaluación de modelos QSAR QAF ((Q)SAR Assessment Framework) es un documento que establece diferentes EE (Elementos de evaluación) los cuales son calificados a través de una checklist con el fin de evaluar el cumplimiento de los 5 principios de validación tanto en el desarrollo del modelo como en la predicción. Estos EE dotan a los modelos QSAR usados con fines regulatorios de mayor robustez y trazabilidad reduciendo aspectos que antes tenían carácter ambiguo. Adicionalmente se presentan 4 principios inherentes a la predicción:
